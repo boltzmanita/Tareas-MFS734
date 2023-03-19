@@ -1,0 +1,12 @@
+echo "Escriba su nombre"
+read Nombre
+echo "Escriba su numero de cuenta"
+read Cuenta
+echo "Este Trabajo es presentado por:"
+echo $Nombre
+echo "Con numero de cuenta:" 
+echo $Cuenta
+
+	
+echo carpeta
+
