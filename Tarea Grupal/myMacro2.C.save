@@ -1,0 +1,10 @@
+void myMacro2 ()
+{	
+	//WRITE HERE YOUR OWN CODE
+	TFile miarchivo("grafico.root","UPDATE");
+	TH1D h()
+	f1.Draw("surf1");
+	f1.Write();
+	miarchivo .Close();
+
+}
